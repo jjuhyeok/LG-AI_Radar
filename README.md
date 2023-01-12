@@ -1,4 +1,4 @@
-# LG-AI_Radar
+# LG-AI_Radar [(Link)](https://dacon.io/competitions/official/235927/overview/description)
 
 Public score 1st 1.89089 | Private score 1st 1.909
 
