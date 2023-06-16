@@ -78,7 +78,6 @@ Project_folder/
 |_ [Dacon]상추의-생육-환경-생성-AI-경진대회_상추세요  # ppt (pdf) 
 ```
 ## 📖 Dataset
-**Data Source**  [Train Test Dateset](https://dacon.io/competitions/official/236033/data)
 ```
 Dataset Info.
 
@@ -95,7 +94,6 @@ Dataset Info.
 
 ## 🔧 Feature Engineering
 ```
-Feature selection.
 
 누적값
 - 구간별 시간에 대한 feature의 누적값
