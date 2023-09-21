@@ -14,7 +14,9 @@
 
 **코드 검증 통과 후 발표까지 진행**하였지만 주최측 내부 찬반 논의 끝에 **최종적으로는 data leakage 판정**을 받게 되었습니다.    
 
-data leakage 판정을 받은 부분은 moving_avg와 moving_median 부분으로 이 점 참고하고 코드 확인해주시면 감사하겠습니다. **(data leakage 판정 받은 파생변수를 제거하더라도 스코어 1등은 유지합니다)**
+data leakage 판정을 받은 부분은 moving_avg와 moving_median 부분으로 이 점 참고하고 코드 확인해주시면 감사하겠습니다.  
+
+**(data leakage 판정 받은 파생변수를 제거하더라도 스코어 1등은 유지합니다)**
 
 ```moving_avg와 moving_mean을 사용한 이유```   
  
